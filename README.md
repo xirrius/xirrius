@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shreya Nigam</h1>
 <h3 align="center">A beginner yet aspiring web developer from India</h3>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200 align="center"/>
+
 
 - 🔭 I’m currently working on **MERN Projects**
 
